@@ -1,6 +1,7 @@
 package chiefparrot.view;
 
 /**
+ * MainViewController
  *
  * @author Lisa Loigge
  * @author Julian Maierl
